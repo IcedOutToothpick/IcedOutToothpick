@@ -1,4 +1,6 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/6d67d21b-b1cf-423d-a0d0-ac53bf55ba9d/thumbnail" >
+</p>
 
 <!--
 **IcedOutToothpick/IcedOutToothpick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
